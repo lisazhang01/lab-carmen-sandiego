@@ -12,7 +12,7 @@ We're going to use what we've learned already about searching with SQL commands,
 
 #### Requirements
 
-- Fork and clone the in the [starter-code](starter-code/world.sql)
+- Fork and clone the this repo
 - Use the clues.sql file as your "answer sheet"
 - From the command line, let's create a new database called ```carmen``` and populate it with the SQL found in ```world.sql```
 
